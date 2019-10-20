@@ -1,3 +1,5 @@
-Basic app that lets you to publish posts and add comments, tags on the posts.
+An app that lets users to publish posts and add comments, tags, ratings on the posts.
+
+This also have option to filter based on posted date.
 
 See live app in this URL: https://postsocially.herokuapp.com
